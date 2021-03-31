@@ -1,6 +1,6 @@
 require 'formula'
 
-class NoteKeeper < Formula
+class Notekeeper < Formula
   desc "Notekeeper: A tiny bash tool for taking and organizing simple text notes."
   homepage "https://github.com/dcchambers/note-keeper"
   url "https://github.com/dcchambers/note-keeper/releases/download/v1.0/notekeeper.tar.gz"
