@@ -2,7 +2,6 @@ class Kubeval < Formula
   desc "Validate your Kubernetes configurations"
   homepage "https://github.com/instrumenta/kubeval"
   version "0.16.1"
-  bottle :unneeded
 
   if OS.mac?
     url "https://github.com/instrumenta/kubeval/releases/download/v0.16.1/kubeval-darwin-amd64.tar.gz"
